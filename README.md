@@ -1,0 +1,7 @@
+# Portfolio
+今まで自分で作成したプロジェクトです。Python,Java,HTML,CSS,Javascript言語を利用しています。
+djangoProjectはdjangoで作成したウェブサイトです。
+利用するにはdjangoProjectのディレクトリにpython manage.py runserverというコマンドを実行してください。
+
+projectのフォルダは java言語の練習としてApache NetBeans IDEで作成したGUIプログラムです。実行するにはApache NetBeans IDEを利用する必要があります。
+ファイルはsrc/main/javaというフォルダにあります。
